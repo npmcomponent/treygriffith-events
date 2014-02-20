@@ -1,0 +1,9 @@
+{
+  "name": "treygriffith-events",
+  "description": "DOM Event Manager",
+  "main": "index.js",
+  "dependencies": {
+    "component-event": "git://github.com/npmcomponent/component-event.git"
+  },
+  "license": "MIT"
+}
